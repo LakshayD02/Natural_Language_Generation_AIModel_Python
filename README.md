@@ -3,7 +3,7 @@
 
 # Technologies Used
 - Python: The primary programming language used for development.
-Transformers (Hugging Face): A library that provides access to state-of-the-art natural language processing models, including GPT-2.
+- Transformers (Hugging Face): A library that provides access to state-of-the-art natural language processing models, including GPT-2.
 - tkinter: A built-in Python library used to create graphical user interfaces (GUIs).
 
 # Features
@@ -20,3 +20,8 @@ Transformers (Hugging Face): A library that provides access to state-of-the-art 
 - Creative Writing: Authors can use the tool to generate story ideas or expand on existing narratives.
 - Content Creation: Marketers and bloggers can quickly generate content drafts or brainstorm topics.
 - Education: Teachers can utilize the application to create writing prompts for students.
+
+# Website Look
+
+![SS-1](https://github.com/LakshayD02/Full_Stack_Blog_Application_Flask/blob/main/Website%20Photos/1.png) <br/>
+
