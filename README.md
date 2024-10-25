@@ -23,5 +23,6 @@
 
 # Website Look
 
-![SS-1](https://github.com/LakshayD02/Full_Stack_Blog_Application_Flask/blob/main/Website%20Photos/1.png) <br/>
+![SS-1](https://github.com/LakshayD02/Natural_Language_Generation_AIModel_Python/blob/main/NLP-1.png) <br/>
+![SS-1](https://github.com/LakshayD02/Natural_Language_Generation_AIModel_Python/blob/main/NLP-2.png) <br/>
 
